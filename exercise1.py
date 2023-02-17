@@ -1,4 +1,4 @@
-
+# Расставить цифры 1, 2, 3, 4, 5, 6 так, чтобы равенство AB^C=DE^F соблюдалось
 numbers = [1, 2, 3, 4, 5, 6]
 for a in numbers:
     for b in numbers:
